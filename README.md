@@ -1,13 +1,13 @@
 # Loopback Model Generator
 
-Loopback Model Generator is an open-source Node.js script for  with word pluralization.
+Loopback Model Generator is an open-source Node.js script for connecting to an SQL Server database, and generating loopback models.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://docs.npmjs.com/cli/v6/commands/npm) to install Loopback Model Generator.
 
 ```bash
-pip install foobar
+npm install loopback-model-generator
 ```
 
 ## Usage
