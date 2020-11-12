@@ -1,6 +1,6 @@
 {
   "name": "loopback-model-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node script to connect to an SQL Server database and generate loopback models.",
   "main": "dist/index.js",
   "dependencies": {
