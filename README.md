@@ -15,6 +15,12 @@ npm install loopback-model-generator
 To run:
 
 ```bash
+npm run generate
+```
+
+or:
+
+```bash
 node .
 ```
 
