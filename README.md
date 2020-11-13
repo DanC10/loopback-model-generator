@@ -12,7 +12,12 @@ npm install loopback-model-generator
 
 ## Usage
 
-To run:
+To run, navigate to the loopback-model-generator in your node_modules directory with:
+
+```bash
+cd node_modules/loopback-module-generator
+```
+And run the script with:
 
 ```bash
 npm run generate
